@@ -24,3 +24,6 @@ Assets: Optimized Images and Google Fonts
 Watch the UI walkthrough and responsive design test here:
 
 Watch New Year Demo on [YouTube](https://youtu.be/uA6liazU0vo?si=JYLhowYg5LR_fnfc)
+
+Live: https://mraihancs.github.io/New_Year_Celebration/
+
